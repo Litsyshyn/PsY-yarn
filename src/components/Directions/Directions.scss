@@ -1,0 +1,72 @@
+/* Основні напрями діяльності Асоціації: */
+.directions {
+    margin-top: 75px;
+    display: flex;
+}
+
+/* Налаштування фонового малюнка */
+    .directions::after {
+        content: "";
+        background-image: url(Background_directions.png);
+        background-size: cover;
+        opacity: 0.3;
+        position: absolute;
+        z-index: -1;
+        width: 100%;
+        height: 75%;
+    }
+
+
+
+/* Rectangle 40 */
+.frame {
+    margin: 45px auto 45px auto;
+    width: 85%;
+    height: 85%;
+
+    opacity: 0.95;
+    border: 3px solid #01432B;
+    box-sizing: border-box;
+}
+
+    /* Title Основні напрями діяльності Асоціації: */
+    .title {
+        text-align: center;
+        justify-content: center;
+        width: 100%;
+        height: 100%;
+        left: 420px;
+        top: 1422px;
+        margin: 40px;
+
+        font-family: Merriweather;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 28px;
+        line-height: 35px;
+
+        color: #252525;
+    }
+
+
+    /* Text Основні напрямки... */
+    .directions-description {
+        position: static;
+        display: grid;
+        width: 100%;
+        height: 100%;
+
+    }
+    .descriptions-text {
+        margin-left: 98px;
+        margin-right: 20px;
+        margin-bottom: 10px;
+
+        font-family: Josefin Sans;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 20px;
+
+        color: #252525;
+    }

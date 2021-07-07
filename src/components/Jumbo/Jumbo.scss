@@ -1,0 +1,29 @@
+.jumbo-wrapper {
+    background: url("./../../assets/img/bg1.png");
+    background-position: center;
+    background-size: cover;
+    padding: 65px 0;
+
+    .jumbo-header {
+        font-family: Merriweather;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 28px;
+        line-height: 35px;
+
+        color: #252525;
+    }
+
+    .left-col {
+        .jumbotron {
+            background: none;
+
+
+            button {
+                border-radius: 0;
+                margin-right: 15px;
+            }
+
+        }
+    }
+}

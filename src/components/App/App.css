@@ -1,0 +1,17 @@
+.grid-container {
+  display: grid;
+  justify-content: center;
+  grid: 490px / auto auto auto;
+  grid-gap: 10px;
+  grid-column-gap: 25px;
+  padding: 10px;
+  margin-bottom: 0px;
+  grid-auto-rows: max-content;
+}
+.grid-container-element {
+  display: flex;
+  background-color: rgba(255, 255, 255, 0.8);
+  text-align: center;
+  padding: 0px 0;
+  font-size: 30px;
+}
