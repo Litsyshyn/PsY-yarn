@@ -1,9 +1,9 @@
 import React from "react";
 import "./Activity.scss";
-import "/home/kea/Downloads/psycounseling-front/src/components/App/App.css";
-import trauma from "/home/kea/Downloads/psycounseling-front/src/assets/img/trauma.png";
-import family from "/home/kea/Downloads/psycounseling-front/src/assets/img/family.png";
-import child from "/home/kea/Downloads/psycounseling-front/src/assets/img/child.png";
+import "../../components/App/App.css";
+import trauma from "../../assets/img/trauma.png";
+import family from "../../assets/img/family.png";
+import child from "../../assets/img/child.png";
 
 
 const Activity = () => {
