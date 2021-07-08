@@ -3,13 +3,16 @@ import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
 import dumdata from "./../../data/dam_data";
 import "./Header.scss";
+import logo from "../../assets/img/logo.png"
 
 const Header = () => {
   return (
-    <header className="top-header">
+    <header className="top-header bg-light">
       <div className="container">
         <div className="top-header-titlerow">
-          <div className="top-header-logo">LOGO</div>
+          <div className="top-header-logo">
+            <img className="top-header-logo" src={logo} />
+          </div>
           <div className="top-header-title">
             асоціація психологічного консультування та травмотерапії
           </div>
