@@ -16,7 +16,7 @@ const EventSlider = (props) => {
         {dumdata.jumbo.events.map((i) => (
           <Carousel.Item key={i.name} interval={3000}>
             <h3 className="title">{i.name}</h3>
-            <p className="text">{i.text}</p>
+            <p className="text">{i.description}</p>
             <p className="date">{i.date}</p>
           </Carousel.Item>
         ))}

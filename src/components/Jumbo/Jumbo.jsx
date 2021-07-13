@@ -7,7 +7,7 @@ import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 // import PropTypes from "prop-types";
 import "./Jumbo.scss";
-import EventSlider from "./../EventSlider";
+// import EventSlider from "./../EventSlider";
 
 const Jumbo = () => (
   <div className="jumbo-wrapper">
@@ -29,7 +29,7 @@ const Jumbo = () => (
         </Col>
 
         <Col md={6}>
-          <EventSlider />
+          {/*<EventSlider />*/}
         </Col>
       </Row>
     </Container>
