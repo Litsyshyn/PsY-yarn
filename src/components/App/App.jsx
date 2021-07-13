@@ -6,6 +6,7 @@ import Activity from "../Activity"
 import "./App.css";
 import Directions from "../Directions";
 import Contacts from "../Contacts";
+import Footer from "../Footer";
 
 const App = () => {
   return (
@@ -15,6 +16,7 @@ const App = () => {
       <Activity />
       <Directions />
       <Contacts />
+      <Footer />
     </div>
   );
 };

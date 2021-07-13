@@ -11,16 +11,14 @@ const Header = () => {
       <div className="container">
         <div className="top-header-titlerow">
           <div className="top-header-logo">
-            <img className="top-header-logo" src={logo} />
+            <img className="top-header-logo" src={logo} alt=""/>
           </div>
           <div className="top-header-title">
             асоціація психологічного консультування та травмотерапії
           </div>
           <div className="top-header-langnav">
-            <a href="" className="active">
-              UA
-            </a>
-            <a href="">EN</a>
+            <a href="/" className="active">UA</a>
+            <a href="/">EN</a>
           </div>
         </div>
       </div>

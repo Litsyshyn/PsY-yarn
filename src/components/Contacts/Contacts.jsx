@@ -54,7 +54,7 @@ const Contacts = () => {
                         <ul className="list-unstyled">
                             <li className="d-flex text">
                                 <span className="wrap-icon icon-room mr-3"> </span>
-                                <span className="text">вкл. Чистяківська, 7/75, Київ, 06062, Україна</span>
+                                <span className="text">вул. Чистяківська, 7/75, Київ, 06062, Україна</span>
                             </li>
                             <li className="d-flex">
                                 <span className="wrap-icon icon-phone mr-3"> </span>
