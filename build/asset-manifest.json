@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/psycounseling-front/static/css/main.b5313184.chunk.css",
-    "main.js": "/psycounseling-front/static/js/main.3230e149.chunk.js",
-    "main.js.map": "/psycounseling-front/static/js/main.3230e149.chunk.js.map",
+    "main.js": "/psycounseling-front/static/js/main.428ae705.chunk.js",
+    "main.js.map": "/psycounseling-front/static/js/main.428ae705.chunk.js.map",
     "runtime-main.js": "/psycounseling-front/static/js/runtime-main.0b912c60.js",
     "runtime-main.js.map": "/psycounseling-front/static/js/runtime-main.0b912c60.js.map",
-    "static/js/2.82ed724a.chunk.js": "/psycounseling-front/static/js/2.82ed724a.chunk.js",
-    "static/js/2.82ed724a.chunk.js.map": "/psycounseling-front/static/js/2.82ed724a.chunk.js.map",
+    "static/js/2.003c90cf.chunk.js": "/psycounseling-front/static/js/2.003c90cf.chunk.js",
+    "static/js/2.003c90cf.chunk.js.map": "/psycounseling-front/static/js/2.003c90cf.chunk.js.map",
     "index.html": "/psycounseling-front/index.html",
-    "precache-manifest.22af0411e1b87d1f96594d044ee00a0d.js": "/psycounseling-front/precache-manifest.22af0411e1b87d1f96594d044ee00a0d.js",
+    "precache-manifest.ce6faea6d59d696f0a26c5c851b24506.js": "/psycounseling-front/precache-manifest.ce6faea6d59d696f0a26c5c851b24506.js",
     "service-worker.js": "/psycounseling-front/service-worker.js",
     "static/css/main.b5313184.chunk.css.map": "/psycounseling-front/static/css/main.b5313184.chunk.css.map",
-    "static/js/2.82ed724a.chunk.js.LICENSE.txt": "/psycounseling-front/static/js/2.82ed724a.chunk.js.LICENSE.txt",
+    "static/js/2.003c90cf.chunk.js.LICENSE.txt": "/psycounseling-front/static/js/2.003c90cf.chunk.js.LICENSE.txt",
     "static/media/Directions.scss": "/psycounseling-front/static/media/Background_directions.172ae0f2.png",
     "static/media/Jumbo.scss": "/psycounseling-front/static/media/bg1.c375dfe6.png",
     "static/media/child.png": "/psycounseling-front/static/media/child.a2d606c6.png",
@@ -21,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0b912c60.js",
-    "static/js/2.82ed724a.chunk.js",
+    "static/js/2.003c90cf.chunk.js",
     "static/css/main.b5313184.chunk.css",
-    "static/js/main.3230e149.chunk.js"
+    "static/js/main.428ae705.chunk.js"
   ]
 }
