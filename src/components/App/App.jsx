@@ -1,6 +1,6 @@
 import React from "react";
 import Header from "../Header";
-import Jumbo from "../Jumbo/Jumbo";
+// import Jumbo from "../Jumbo/Jumbo";
 import Activity from "../Activity"
 
 import "./App.css";
@@ -12,7 +12,7 @@ const App = () => {
   return (
     <div className="App">
       <Header />
-      <Jumbo />
+      {/*<Jumbo />*/}
       <Activity />
       <Directions />
       <Contacts />
