@@ -28,11 +28,11 @@ const Header = () => {
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
               <Nav className="mr-auto">
-                {dumdata.navbar.map((i) => (
-                  <Nav.Link href="#home" key={i}>
-                    {i}
-                  </Nav.Link>
-                ))}
+                {/*{dumdata.navbar.map((i) => (*/}
+                {/*  <Nav.Link href="https://www.psycounseling.org/" target="_blank" key={i}>*/}
+                {/*    {i}*/}
+                {/*  </Nav.Link>*/}
+                {/*))}*/}
               </Nav>
             </Navbar.Collapse>
           </Navbar>
