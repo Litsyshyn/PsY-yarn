@@ -19,16 +19,16 @@ const Footer = () => {
                             <div className="text-left col-md-3 col-lg-4 col-xl-3 mx-auto mb-4 mt-5">
                                 {/*!-- Content -->*/}
                                 <p>
-                                    <a href="https://www.psycounseling.org/" target="_blank" className="text-style text-uppercase">Головна</a>
+                                    <a href="https://www.psycounseling.org/" target="_blank" rel="noopener noreferrer" className="text-style text-uppercase">Головна</a>
                                 </p>
                                 <p>
-                                    <a href="https://www.psycounseling.org/" target="_blank" className="text-style text-uppercase">Про асоціацію</a>
+                                    <a href="https://www.psycounseling.org/" target="_blank" rel="noopener noreferrer" className="text-style text-uppercase">Про асоціацію</a>
                                 </p>
                                 <p>
-                                    <a href="https://www.psycounseling.org/" target="_blank" className="text-style text-uppercase">Календар</a>
+                                    <a href="https://www.psycounseling.org/" target="_blank" rel="noopener noreferrer" className="text-style text-uppercase">Календар</a>
                                 </p>
                                 <p>
-                                    <a href="https://www.psycounseling.org/" target="_blank" className="text-style text-uppercase">Новини</a>
+                                    <a href="https://www.psycounseling.org/" target="_blank" rel="noopener noreferrer" className="text-style text-uppercase">Новини</a>
                                 </p>
                             </div>
                             {/*!-- Grid column -->*/}
@@ -37,16 +37,16 @@ const Footer = () => {
                             <div className="text-left col-md-2 col-lg-2 col-xl-2 mb-4 mt-5 mr-5">
                                 {/*!-- Links -->*/}
                                 <p>
-                                    <a href="https://www.psycounseling.org/" target="_blank" className="text-style text-uppercase">Партнери</a>
+                                    <a href="https://www.psycounseling.org/" target="_blank" rel="noopener noreferrer" className="text-style text-uppercase">Партнери</a>
                                 </p>
                                 <p>
-                                    <a href="https://www.psycounseling.org/" target="_blank" className="text-style text-uppercase">Сертифікація</a>
+                                    <a href="https://www.psycounseling.org/" target="_blank" rel="noopener noreferrer" className="text-style text-uppercase">Сертифікація</a>
                                 </p>
                                 <p>
-                                    <a href="https://www.psycounseling.org/" target="_blank" className="text-style text-uppercase">Освіта</a>
+                                    <a href="https://www.psycounseling.org/" target="_blank" rel="noopener noreferrer" className="text-style text-uppercase">Освіта</a>
                                 </p>
                                 <p>
-                                    <a href="https://www.psycounseling.org/" target="_blank" className="text-style text-uppercase">Контакти</a>
+                                    <a href="https://www.psycounseling.org/" target="_blank" rel="noopener noreferrer" className="text-style text-uppercase">Контакти</a>
                                 </p>
                             </div>
                             {/*!-- Grid column -->*/}
@@ -58,13 +58,13 @@ const Footer = () => {
                                     Членство
                                 </h6>
                                 <p>
-                                    <a href="https://www.psycounseling.org/" target="_blank" className="text-style">База членів</a>
+                                    <a href="https://www.psycounseling.org/" target="_blank" rel="noopener noreferrer" className="text-style">База членів</a>
                                 </p>
                                 <p>
-                                    <a href="https://www.psycounseling.org/" target="_blank" className="text-style">Приєднатися</a>
+                                    <a href="https://www.psycounseling.org/" target="_blank" rel="noopener noreferrer" className="text-style">Приєднатися</a>
                                 </p>
                                 <p>
-                                    <a href="https://www.psycounseling.org/" target="_blank" className="text-style">Членські внески</a>
+                                    <a href="https://www.psycounseling.org/" target="_blank" rel="noopener noreferrer" className="text-style">Членські внески</a>
                                 </p>
                             </div>
                             {/*!-- Grid column -->*/}

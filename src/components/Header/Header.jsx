@@ -1,7 +1,7 @@
 import React from "react";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
-import dumdata from "./../../data/dam_data";
+// import dumdata from "./../../data/dam_data";
 import "./Header.scss";
 import logo from "../../assets/img/logo.png"
 
