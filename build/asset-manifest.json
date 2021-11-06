@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/psycounseling-front/static/css/main.b5313184.chunk.css",
-    "main.js": "/psycounseling-front/static/js/main.428ae705.chunk.js",
-    "main.js.map": "/psycounseling-front/static/js/main.428ae705.chunk.js.map",
+    "main.css": "/psycounseling-front/static/css/main.7e3b4625.chunk.css",
+    "main.js": "/psycounseling-front/static/js/main.f14e68f9.chunk.js",
+    "main.js.map": "/psycounseling-front/static/js/main.f14e68f9.chunk.js.map",
     "runtime-main.js": "/psycounseling-front/static/js/runtime-main.0b912c60.js",
     "runtime-main.js.map": "/psycounseling-front/static/js/runtime-main.0b912c60.js.map",
-    "static/js/2.003c90cf.chunk.js": "/psycounseling-front/static/js/2.003c90cf.chunk.js",
-    "static/js/2.003c90cf.chunk.js.map": "/psycounseling-front/static/js/2.003c90cf.chunk.js.map",
+    "static/js/2.c22d2ab3.chunk.js": "/psycounseling-front/static/js/2.c22d2ab3.chunk.js",
+    "static/js/2.c22d2ab3.chunk.js.map": "/psycounseling-front/static/js/2.c22d2ab3.chunk.js.map",
     "index.html": "/psycounseling-front/index.html",
-    "precache-manifest.ce6faea6d59d696f0a26c5c851b24506.js": "/psycounseling-front/precache-manifest.ce6faea6d59d696f0a26c5c851b24506.js",
+    "precache-manifest.e30d4becd922fb0f45397d8e0d1b8d7d.js": "/psycounseling-front/precache-manifest.e30d4becd922fb0f45397d8e0d1b8d7d.js",
     "service-worker.js": "/psycounseling-front/service-worker.js",
-    "static/css/main.b5313184.chunk.css.map": "/psycounseling-front/static/css/main.b5313184.chunk.css.map",
-    "static/js/2.003c90cf.chunk.js.LICENSE.txt": "/psycounseling-front/static/js/2.003c90cf.chunk.js.LICENSE.txt",
+    "static/css/main.7e3b4625.chunk.css.map": "/psycounseling-front/static/css/main.7e3b4625.chunk.css.map",
+    "static/js/2.c22d2ab3.chunk.js.LICENSE.txt": "/psycounseling-front/static/js/2.c22d2ab3.chunk.js.LICENSE.txt",
     "static/media/Directions.scss": "/psycounseling-front/static/media/Background_directions.172ae0f2.png",
     "static/media/Jumbo.scss": "/psycounseling-front/static/media/bg1.c375dfe6.png",
     "static/media/child.png": "/psycounseling-front/static/media/child.a2d606c6.png",
@@ -21,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0b912c60.js",
-    "static/js/2.003c90cf.chunk.js",
-    "static/css/main.b5313184.chunk.css",
-    "static/js/main.428ae705.chunk.js"
+    "static/js/2.c22d2ab3.chunk.js",
+    "static/css/main.7e3b4625.chunk.css",
+    "static/js/main.f14e68f9.chunk.js"
   ]
 }
