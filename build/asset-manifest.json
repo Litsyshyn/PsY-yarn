@@ -1,28 +1,25 @@
 {
   "files": {
-    "main.css": "/psycounseling-front/static/css/main.7e3b4625.chunk.css",
-    "main.js": "/psycounseling-front/static/js/main.f14e68f9.chunk.js",
-    "main.js.map": "/psycounseling-front/static/js/main.f14e68f9.chunk.js.map",
-    "runtime-main.js": "/psycounseling-front/static/js/runtime-main.0b912c60.js",
-    "runtime-main.js.map": "/psycounseling-front/static/js/runtime-main.0b912c60.js.map",
-    "static/js/2.c22d2ab3.chunk.js": "/psycounseling-front/static/js/2.c22d2ab3.chunk.js",
-    "static/js/2.c22d2ab3.chunk.js.map": "/psycounseling-front/static/js/2.c22d2ab3.chunk.js.map",
+    "main.css": "/psycounseling-front/static/css/main.7aeb730e.chunk.css",
+    "main.js": "/psycounseling-front/static/js/main.3f8493d2.chunk.js",
+    "main.js.map": "/psycounseling-front/static/js/main.3f8493d2.chunk.js.map",
+    "runtime-main.js": "/psycounseling-front/static/js/runtime-main.dc46181e.js",
+    "runtime-main.js.map": "/psycounseling-front/static/js/runtime-main.dc46181e.js.map",
+    "static/js/2.619b801a.chunk.js": "/psycounseling-front/static/js/2.619b801a.chunk.js",
+    "static/js/2.619b801a.chunk.js.map": "/psycounseling-front/static/js/2.619b801a.chunk.js.map",
     "index.html": "/psycounseling-front/index.html",
-    "precache-manifest.e30d4becd922fb0f45397d8e0d1b8d7d.js": "/psycounseling-front/precache-manifest.e30d4becd922fb0f45397d8e0d1b8d7d.js",
-    "service-worker.js": "/psycounseling-front/service-worker.js",
-    "static/css/main.7e3b4625.chunk.css.map": "/psycounseling-front/static/css/main.7e3b4625.chunk.css.map",
-    "static/js/2.c22d2ab3.chunk.js.LICENSE.txt": "/psycounseling-front/static/js/2.c22d2ab3.chunk.js.LICENSE.txt",
-    "static/media/Directions.scss": "/psycounseling-front/static/media/Background_directions.172ae0f2.png",
-    "static/media/Jumbo.scss": "/psycounseling-front/static/media/bg1.c375dfe6.png",
-    "static/media/child.png": "/psycounseling-front/static/media/child.a2d606c6.png",
-    "static/media/family.png": "/psycounseling-front/static/media/family.29329af8.png",
-    "static/media/logo.png": "/psycounseling-front/static/media/logo.ee424b25.png",
-    "static/media/trauma.png": "/psycounseling-front/static/media/trauma.a9efbf1e.png"
+    "static/css/main.7aeb730e.chunk.css.map": "/psycounseling-front/static/css/main.7aeb730e.chunk.css.map",
+    "static/js/2.619b801a.chunk.js.LICENSE.txt": "/psycounseling-front/static/js/2.619b801a.chunk.js.LICENSE.txt",
+    "static/media/Directions.scss": "/psycounseling-front/static/media/Background_directions.2172e81c.png",
+    "static/media/child.3b32a13c.png": "/psycounseling-front/static/media/child.3b32a13c.png",
+    "static/media/family.eef0dc37.png": "/psycounseling-front/static/media/family.eef0dc37.png",
+    "static/media/logo.65c17e58.png": "/psycounseling-front/static/media/logo.65c17e58.png",
+    "static/media/trauma.c459c1e8.png": "/psycounseling-front/static/media/trauma.c459c1e8.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0b912c60.js",
-    "static/js/2.c22d2ab3.chunk.js",
-    "static/css/main.7e3b4625.chunk.css",
-    "static/js/main.f14e68f9.chunk.js"
+    "static/js/runtime-main.dc46181e.js",
+    "static/js/2.619b801a.chunk.js",
+    "static/css/main.7aeb730e.chunk.css",
+    "static/js/main.3f8493d2.chunk.js"
   ]
 }
